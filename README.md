@@ -1,6 +1,3 @@
-## Welcome to awesome game of Tetris
-
-
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
